@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           test push tu repo da clone
+          pull: lay noi dung cua remote repository
         </p>
         <a
           className="App-link"
