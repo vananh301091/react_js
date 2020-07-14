@@ -10,6 +10,7 @@ function App() {
         <p>
           test push tu repo da clone
           commit: luu lai trang thai cua index
+          pull: lay noi dung cua remote repository
         </p>
         <a
           className="App-link"
