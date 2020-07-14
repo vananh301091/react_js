@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           test push tu repo da clone
+          commit: luu lai trang thai cua index
         </p>
         <a
           className="App-link"
